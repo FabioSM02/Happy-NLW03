@@ -20,6 +20,6 @@
 
 `yarn install`
 
-- After installing all dependencies, give:
+- After installing all dependencies, in folder 'web' and 'backend' give:
 
 `yarn start`
