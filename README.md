@@ -23,3 +23,5 @@
 - After installing all dependencies, in folder 'web' and 'backend' give:
 
 `yarn start`
+
+- The project will open in <strong>localhost:3000</strong>
