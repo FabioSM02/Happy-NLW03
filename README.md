@@ -6,7 +6,7 @@
 
 <img src="https://github.com/FabioSM02/Happy-NLW03/blob/main/web/src/assets/images/LandingPage.PNG" alt="Landing Page of Happy" center />
 
-<img src="https://github.com/FabioSM02/Happy-NLW03/blob/main/web/src/assets/images/OrphanagesMap.PNG" alt="Orphanages Map" center />
+<img src="https://github.com/FabioSM02/Happy-NLW03/blob/main/web/src/assets/images/OrphanagesMap.png" alt="Orphanages Map" center />
 
 <br/>
 
