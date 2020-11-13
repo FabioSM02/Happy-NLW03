@@ -38,6 +38,7 @@ yarn start
 - NodeJS
 - Typescript
 - React-Native
+- SQLite (Beekeeper Studio)
 
 ## Concepts Learned
 
