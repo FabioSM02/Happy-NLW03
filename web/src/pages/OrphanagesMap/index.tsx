@@ -51,5 +51,3 @@ export default function OrphanagesMap() {
     </div>
   );
 }
-
-// return `https://a.tile.openstreetmap.org/${z}/${x}/${y}.png`;
