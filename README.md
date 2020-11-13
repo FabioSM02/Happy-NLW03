@@ -14,14 +14,20 @@
 
 - Install the project using git bash or zip folder, if you do in git bash type it:
 
-`git clone https://github.com/FabioSM02/Happy-NLW03`
+```
+git clone https://github.com/FabioSM02/Happy-NLW03
+```
 
 - After copying, install all project dependencies via the terminal using:
 
-`yarn install`
+```
+yarn install
+```
 
 - After installing all dependencies, in folder 'web' and 'backend' give:
 
-`yarn start`
+```
+yarn start
+```
 
 - The project will open in <strong>localhost:3000</strong>
